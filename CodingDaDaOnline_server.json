@@ -1,0 +1,48 @@
+{
+  "app": "CodingDaDaOnline",
+  "latest_version": "1.0",
+  "exe_url": "PASTE_NEW_CODINGDADAONLINE_EXE_URL_HERE",
+  "notes": "CodingDaDaOnline v1.0",
+  "devices": {
+    "91840344": {
+      "name": "YUG SPORTS",
+      "active": true,
+      "message": "450 PAYMENT, NEXT PAYMENT DATE 15 SEPTEMBER 2026",
+      "show_preview": false,
+      "html_file": "YUG_SPORTS.html",
+      "preview_file": "YUG_SPORTS_PREVIEW.html"
+    },
+    "41642066": {
+      "name": "JSB COMMENTRY",
+      "active": true,
+      "message": "Have a great match day! Your CricSpecter terminal is ready.",
+      "show_preview": false,
+      "html_file": "JSB_COMMENTRY.html",
+      "preview_file": "JSB_COMMENTRY_PREVIEW.html"
+    },
+    "68177860": {
+      "name": "UTV NEWS",
+      "active": true,
+      "message": "EXPIRY DATE 1 OCTOMBER",
+      "show_preview": false,
+      "html_file": "UTV_NEWS.html",
+      "preview_file": "UTV_NEWS_PREVIEW.html"
+    },
+    "01138776": {
+      "name": "KAIRAV BHAI",
+      "active": true,
+      "message": "EXPIRY 15 september",
+      "show_preview": false,
+      "html_file": "KAIRAV_BHAI.html",
+      "preview_file": "KAIRAV_BHAI_PREVIEW.html"
+    },
+    "59643946": {
+      "name": "SPORT INFO NPL",
+      "active": true,
+      "message": "YOU ARE MAN DUDE WORK HARD",
+      "show_preview": true,
+      "html_file": "SPORT_INFO_NPL.html",
+      "preview_file": "SPORT_INFO_NPL_PREVIEW.html"
+    }
+  }
+}
